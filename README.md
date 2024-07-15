@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadixp</h1>
 <h3 align="center">یک یک دو دو هشت</h3>
 <h3 align="center">A Front-End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=qop%20dota%202%20animated%20gif&imgurl=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F1689394984429732104%2FAEE999CF9AB3DB7F0740208C77B656F856161BE8%2F%3Fimw%3D512%26%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dfalse&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2525305394&docid=gx7bv9eLp7IpmM&tbnid=vFc-2DW0TbH7iM&vet=12ahUKEwilwL6CvqmHAxXG3AIHHaePCVwQM3oECBwQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwilwL6CvqmHAxXG3AIHHaePCVwQM3oECBwQAA">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi-xp&label=Profile%20views&color=0e75b6&style=flat" alt="hadi-xp" /> </p>
 
