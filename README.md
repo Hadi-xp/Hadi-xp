@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hadixp</h1>
-<h3 align="center">یک یک دو دو هشت</h3>
-<h3 align="center">A Front-End Developer</h3>
+<h1 align="center">Hi im Hadi</h1>
+<h3 align="center">11228</h3>
+<h3 align="center">BackEnd Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi-xp&label=Profile%20views&color=0e75b6&style=flat" alt="hadi-xp" /> </p>
